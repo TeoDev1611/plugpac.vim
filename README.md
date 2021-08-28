@@ -10,7 +10,7 @@ Linux & Vim8:
 git clone https://github.com/k-takata/minpac.git \
     ~/.vim/pack/minpac/opt/minpac
 curl -fLo ~/.vim/autoload/plugpac.vim --create-dirs \
-    https://raw.githubusercontent.com/bennyyip/plugpac.vim/master/plugpac.vim
+    https://raw.githubusercontent.com/TeoDev1611/plugpac.vim/master/plugpac.vim
 ```
 
 ## Sample vimrc
